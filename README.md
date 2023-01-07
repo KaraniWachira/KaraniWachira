@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaraniWachira
+- 👋 Hi, I’m Karani
 - 👀 I’m interested in Building Mobile Applications
 - 🌱 I’m currently learning Android Basics with Compose
 - 💞️ I’m looking forward to making great apps with Compose 
