@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KaraniWachira
-- 👀 I’m interested in Data Science using R
-- 🌱 I’m currently learning data visualization using ggplot2 package
-- 💞️ I’m looking to collaborate telling stories using data
+- 👀 I’m interested in Building Mobile Applications
+- 🌱 I’m currently learning Android Basics with Compose
+- 💞️ I’m looking forward to making great apps with Compose 
 - 📫 How to reach me wachirakeith@gmail.com
 
 <!---
