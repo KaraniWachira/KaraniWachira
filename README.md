@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Karani
-- 👀 I’m interested in building Mobile Applications 
+- 👋 Hi, I’m Karani Keith
+- 👀 I’m interested in building Mobile and Web Application Development
 - 🌱 I’m currently learning Android Basics with Compose
 - 💞️ I’m looking forward to making great apps with Compose 
 - 📫 How to reach me wachirakeith@gmail.com
