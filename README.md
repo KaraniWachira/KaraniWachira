@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karani Wachira 
 - 👀 I’m enjoy building Web Applications and Tidying data with R
-- 🌱 I’m currently learning React 
+- 🌱 I’m currently learning MEARN
 - 💞️ I’m looking forward to making great products
 - 📫 How to reach me wachirakeith@gmail.com
 
