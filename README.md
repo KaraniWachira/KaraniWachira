@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Karani Wachira 
-- 👀 I’m enjoy building Web Applications and Tidying data with R
-- 🌱 I’m currently learning MEARN
+- 👀 I enjoy building Web Applications and Tidying data with R
+- 🌱 I’m currently learning MERN
 - 💞️ I’m currently building Gumzo - a social media app 
 
 
