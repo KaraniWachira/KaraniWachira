@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Karani Wachira 
+- 👋 Hi, I’m Karani 
 - 👀 I enjoy building Web Applications and Tidying data with R
-- 🌱 I’m currently learning MERN
-- 💞️ I’m currently building Gumzo - a social media app 
+- 🌱 I’m currently learning Vue
+
 
 
 <!---
