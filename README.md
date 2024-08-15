@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Karani 
-- 👀 I enjoy building Web Applications and Tidying data with R
-- 🌱 I’m currently building using MERN
+- 👀 I enjoy Tidying data with R
+  
 
 
 
