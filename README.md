@@ -1,5 +1,5 @@
 - 👀 I enjoy Tidying data with R
-  
+- Learning Angular 
 
 
 
