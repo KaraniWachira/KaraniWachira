@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am developer with a passion for clean, efficient code and data tidying, especially using R. <br>My projects revolve around data analysis and front end web development, where I primarily work with Angular and TypeScript.  
+I am developer with a passion for clean, efficient code and data tidying, especially using R. <br>My projects revolve around data analysis and front end web development, where I primarily work with Angular and TypeScript. <br> Read my blogs on QuartoPub => https://keithkarani.quarto.pub/
 
 
 ## 🌐 Socials:
