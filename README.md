@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am developer with a passion for clean, efficient code and data tidying, using R. <br>My projects revolve around data analysis, where I work with tidyverse packages and present my work using Quarto and Shiny. <br> Read my blogs on QuartoPub => https://keithkarani.quarto.pub/
+ Read my blogs on QuartoPub => https://keithkarani.quarto.pub/
 
 
 ## 🌐 Socials:
